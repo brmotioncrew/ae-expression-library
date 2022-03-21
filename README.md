@@ -2,11 +2,29 @@
 
 This is a collection of useful expressions for Adobe After Effects that we use as a team.
 
-<h2>Format</h2>
-All expressions are formatted as AE-importable Code Libraries. Find a guide on how to use this type of implementation in the "Usage" Folder above.
-[My Image](https://github.com/brmotioncrew/ae-expression-library/blob/main/Library%20Usage.png)
+<h2>Usage</h2>
+All expressions are formatted as AE-importable Code Libraries. 
+
+Here's how you use it in your project:
+
+<img src="Library Usage.png">
+
+
+1. Import the Library File into your After Effects Project
+2. Use this code snippet below to import the Library into the particular expression you are working on
+
+
+```Javascript
+ eval(footage("expressionLibrary.txt").sourceText); // get expression library
+```
+
+3. call a function from the library
+```Javascript
+ autoPos(L,"left","bottom")
+```
 
 <h2>About us</h2>
 Find us on <a href="https://www.behance.net/digitalformate">Behance</a>
 
 Contact us via <a href="mailto:digitaleformatentwicklung@gmail.com">E-Mail</a>
+
