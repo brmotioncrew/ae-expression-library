@@ -7,7 +7,7 @@ All expressions are formatted as AE-importable Code Libraries.
 
 Here's how you use it in your project:
 
-<img src="Library Usage Example.png">
+<img src="Expression Library Example Usage.png">
 
 1. Download a Library File (e.g. `dynamicPosition.js`)
 2. Import the Library File into your After Effects Project
