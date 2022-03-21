@@ -7,7 +7,7 @@ All expressions are formatted as AE-importable Code Libraries.
 
 Here's how you use it in your project:
 
-<img src="Library Usage.png">
+<img src="Library Usage Example.png">
 
 
 1. Import the Library File into your After Effects Project
