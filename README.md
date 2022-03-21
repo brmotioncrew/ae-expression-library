@@ -15,7 +15,7 @@ Here's how you use it in your project:
 
 
 ```Javascript
- eval(footage("expressionLibrary.js").sourceText); // get expression library
+ eval(footage("dynamicPosition.js").sourceText); // get expression library
 ```
 
 4. call a function from the library
