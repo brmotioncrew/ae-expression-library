@@ -5,6 +5,10 @@ This is a collection of useful expressions for Adobe After Effects that we use a
 <h2>Usage</h2>
 All expressions are formatted as AE-importable Code Libraries. 
 
+h2>Function</h2>
+The purpose, usage and required input parameters are documented in the Libraries themselves.
+
+
 Here's how you use it in your project:
 
 <img src="Expression Library Example Usage.png">
@@ -22,6 +26,7 @@ Here's how you use it in your project:
 ```Javascript
  autoPos(L,"left","bottom")
 ```
+
 
 <h2>About us</h2>
 Find us on <a href="https://www.behance.net/digitalformate">Behance</a>
