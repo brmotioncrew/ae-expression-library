@@ -9,16 +9,16 @@ Here's how you use it in your project:
 
 <img src="Library Usage Example.png">
 
-
-1. Import the Library File into your After Effects Project
-2. Use this code snippet below to import the Library into the particular expression you are working on
+1. Download a Library File (e.g. "dynamicPosition.js")
+2. Import the Library File into your After Effects Project
+3. Use this code snippet below to import the Library into the particular expression you are working on
 
 
 ```Javascript
- eval(footage("expressionLibrary.txt").sourceText); // get expression library
+ eval(footage("expressionLibrary.js").sourceText); // get expression library
 ```
 
-3. call a function from the library
+4. call a function from the library
 ```Javascript
  autoPos(L,"left","bottom")
 ```
