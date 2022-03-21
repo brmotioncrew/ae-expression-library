@@ -9,7 +9,7 @@ Here's how you use it in your project:
 
 <img src="Library Usage Example.png">
 
-1. Download a Library File (e.g. "dynamicPosition.js")
+1. Download a Library File (e.g. `dynamicPosition.js`)
 2. Import the Library File into your After Effects Project
 3. Use this code snippet below to import the Library into the particular expression you are working on
 
