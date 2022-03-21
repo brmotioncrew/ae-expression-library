@@ -13,7 +13,7 @@ All expressions are formatted as AE-importable Code Libraries.
 
 Here's how you use it in your project:
 
-<img src="Expresson Library Example.png">
+<img src="Expresson Library Example Usage.png">
 
 1. Download a Library File (e.g. `AeExpressionLibrary.js`)
 2. Import the Library File into your After Effects Project
